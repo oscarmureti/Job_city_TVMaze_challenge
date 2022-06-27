@@ -6,10 +6,12 @@ A new Flutter project.
 
 The project runs on flutter version 3.0.3
 
-A few resources to get you started if this is your first Flutter project:
+## Commands
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
+flutter pub get
+flutter run
+```
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,

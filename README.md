@@ -1,6 +1,39 @@
 # job_city_challenge
 
-A new Flutter project.
+## the app does the following
+- List all of the series contained in the API used by the paging scheme provided by the
+API.
+- Allow users to search series by name.
+- The listing and search views must show at least the name and poster image of the
+series.
+- After clicking on a series, the application should show the details of the series, showing
+the following information:
+ 1. name.
+ 2. poster.
+ 3. Days and time during which the series airs.
+ 4. Genres.
+ 5. Summary.
+ 6. List of episodes separated by season.
+- After clicking on an episode, the application should show the episode’s information,
+including:
+ 1. Name.
+ 2. Number.
+ 3. Season.
+ 4. Summmary.
+ 5. Image, if there is one.
+- Allow the user to set a PIN number to secure the application and prevent unauthorized
+users.
+- Allow the user to save a series as a favorite.
+- Allow the user to delete a series from the favorites list.
+- Allow the user to browse their favorite series in alphabetical order, and click on one to
+see its details.
+- Create a people search by listing the name and image of the person.
+- After clicking on a person, the application should show the details of that person, such
+as:
+ 1. Name.
+ 2. Image.
+ 3. After clicking on a person, the application should show the details of that person, such
+as:
 
 ## Getting Started
 

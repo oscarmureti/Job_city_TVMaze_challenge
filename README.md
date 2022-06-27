@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The project runs on flutter version 3.0.3
 
 A few resources to get you started if this is your first Flutter project:
 
